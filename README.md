@@ -1,1 +1,1 @@
-![]([https://github.com/RUFFYpy/RUFFYpy/blob/main/RUFFYpy.gif](https://github.com/RUFFYpy/RUFFYpy/blob/main/RUFFYpy_.gif))
+![https://github.com/RUFFYpy](https://github.com/RUFFYpy/RUFFYpy/blob/main/RUFFYpy_.gif)
